@@ -3,9 +3,9 @@
 </div>
 <img src="https://github.com/mburillo1/mburillo1/blob/main/Githubprofile.jpg">
 ¡Hola! Soy Miguel Burillo, un apasionado desarrollador junior JavaScript. Disfruto trabajando con tecnologías como:<br>
--Vue.js
--Node.js
--Java Script
--Html
+-Vue.js<br>
+-Node.js<br>
+-Java Script<br>
+-Html<br>
 -Css
 
