@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desarrollador Junior</title>
+    <style>
+        /* Estilos para el banner */
+        .banner {
+            background-color: #2E51A2; /* Color de fondo */
+            color: #FFFFFF; /* Color del texto */
+            padding: 10px; /* Espaciado interno */
+            text-align: center; /* Alineación del texto */
+            font-size: 18px; /* Tamaño de fuente */
+        }
+    </style>
+</head>
+<body>
+    <!-- Banner -->
+    <div class="banner">
+        Soy un <strong>Desarrollador Junior</strong> en busca de aprendizaje y desafíos emocionantes.
+    </div>
+</body>
+</html>
